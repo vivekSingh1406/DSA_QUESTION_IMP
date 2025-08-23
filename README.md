@@ -19,16 +19,15 @@
 
 ==========================================================================
 
+### important apporach
 
-## important apporach
-
-### 1- Two-Pointer technique
-### 2- Sliding window
-### 3- Fast and slow pointer
-### 4- Tree Traversal 
-### 5- Depth-first search(DFS)
-### 6- Binary search
-### 7- Dynamic Programming
+######  1- Two-Pointer technique
+######  2- Sliding window
+######  3- Fast and slow pointer
+######  4- Tree Traversal 
+######  5- Depth-first search(DFS)
+######  6- Binary search
+######  7- Dynamic Programming
 
 [Striver's A2Z DSA](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
 
