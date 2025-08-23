@@ -20,7 +20,6 @@
 ==========================================================================
 
 ### important apporach
-
 ######  1- Two-Pointer technique
 ######  2- Sliding window
 ######  3- Fast and slow pointer
